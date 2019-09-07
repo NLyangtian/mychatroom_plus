@@ -1,0 +1,19 @@
+
+usquid:S00116"VRename this field "ButtonPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğâÊø8È‰Í¯Î-
+Dsquid:S1068"&Remove this unused "cr" private field.(é»Í™8–‡Ê¯Î-
+Osquid:S1068	",Remove this unused "username" private field.(é˜æûÿÿÿÿ8º‰™¯Î-
+Msquid:S1068"/Remove this unused "ButtonPanel" private field.(ğâÊø8È‰Í¯Î-
+Tsquid:S1068"1Remove this unused "passwordLable" private field.(×ùŞøÿÿÿÿ8¨ß¼¯Î-
+Nsquid:S1068"0Remove this unused "passworPanel" private field.(İÙÓÔ8ƒ¡º¯Î-
+Psquid:S1068"2Remove this unused "passwordField1" private field.(‹ÎÛŸ8Ö²Æ¯Î-
+Wsquid:S1068"4Remove this unused "loginButtonPanel" private field.(˜›á›üÿÿÿÿ8‹âù¯Î-
+Osquid:S1068",Remove this unused "chatromm" private field.(¦¾úœùÿÿÿÿ8„¯Î-
+Nsquid:S1068"0Remove this unused "GUITestPanel" private field.(î×¦§8‹ôõ®Î-
+Osquid:S1068",Remove this unused "register" private field.(ûáöıÿÿÿÿ8ç·Ï¯Î-
+Osquid:S1068
+",Remove this unused "userName" private field.(ÿì±êúÿÿÿÿ8 ş£¯Î-
+Jsquid:S1068"-Remove this unused "textField" private field.(Ò„™8¹õ²¯Î-
+vsquid:S00116"WRename this field "GUITestPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î×¦§8‹ôõ®Î-
+Msquid:S1068"/Remove this unused "loginbutton" private field.(’×Ğİ8¡Şü¯Î-
+‰squid:S1845
+"fRename field "userName" to prevent any misunderstanding/clash with field "username" defined on line 9.(ÿì±êúÿÿÿÿ8 ş£¯Î-

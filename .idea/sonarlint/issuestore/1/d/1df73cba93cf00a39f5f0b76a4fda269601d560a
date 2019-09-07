@@ -1,0 +1,10 @@
+
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±Å§ÒÎ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ªğÒÎ-
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8– ©ÒÎ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÙüÑ8©µÒÎ-
+Fsquid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ïı®ÒÎ-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(°‹ãııÿÿÿÿ8õÒ›ÒÎ-
+Fsquid:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷îšÒÎ-

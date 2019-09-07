@@ -1,0 +1,15 @@
+
+Fsquid:S1068"/Remove this unused "buttonPanel" private field.(Û¤·Ù
+asquid:S2095G"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ƒ›ùÀûÿÿÿÿ
+`squid:S2095C"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(Õ…“÷
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(…²™Ó
+Nsquid:S1481J"2Remove this unused "msgFromServer" local variable.(ö“¨§ýÿÿÿÿ
+Esquid:S1481a".Remove this unused "userlogin" local variable.(ù•í¶
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—•™Óøÿÿÿÿ
+Dsquid:S1604&"(Make this anonymous inner class a lambda(¢’–ìúÿÿÿÿ
+?squid:S1604/"(Make this anonymous inner class a lambda(ÖãºÂ
+]squid:S1854J"ARemove this useless assignment to local variable "msgFromServer".(ö“¨§ýÿÿÿÿ
+Tsquid:S1854a"=Remove this useless assignment to local variable "userlogin".(ù•í¶
+?squid:S1148T"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+4squid:S1700"Rename field "userlogin"(Ã¥ëÐýÿÿÿÿ

@@ -1,0 +1,5 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û¢§Ä
+Vsquid:S1068"3Remove this unused "connectToServer" private field.(´¨ÿ‡üÿÿÿÿ8ÅÀ©‘Ï-
+Hsquid:S1068"*Remove this unused "myName" private field.(êç†Œ8ÅÀ©‘Ï-
+Wsquid:S1161-":Add the "@Override" annotation above this method signature(Ý¼õA8€óÏ¤Ï-

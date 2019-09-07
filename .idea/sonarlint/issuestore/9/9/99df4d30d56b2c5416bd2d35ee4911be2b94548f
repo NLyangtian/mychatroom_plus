@@ -1,0 +1,9 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ8ƒ²¢·Ï-
+Nsquid:S1068"-Remove this unused "groupName" private field.(‡³‚öûÿÿÿÿ8È€ð¶Ï-
+Lsquid:S1068"+Remove this unused "friends" private field.(ìÝéƒùÿÿÿÿ8ÊÑ÷¶Ï-
+hsquid:UselessImportCheck":Remove this unused import 'java.awt.event.ComponentEvent'.(ë˜±Êþÿÿÿÿ8ãçë¶Ï-
+Tsquid:S1068"3Remove this unused "connectToServer" private field.(´¨ÿ‡üÿÿÿÿ8•ôü¶Ï-
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±íò¯
+Fsquid:S1068"*Remove this unused "myName" private field.(êç†Œ8£Åû¶Ï-
+esquid:UselessImportCheck"<Remove this unused import 'java.awt.event.ComponentAdapter'.(å¯Ùõ8ãçë¶Ï-

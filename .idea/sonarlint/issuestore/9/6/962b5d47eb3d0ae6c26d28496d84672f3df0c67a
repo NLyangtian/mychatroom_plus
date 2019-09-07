@@ -1,0 +1,31 @@
+
+Esquid:S21894""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8È­ÎüÏ-
+dsquid:S1192+"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(áìöæ8È­ÎüÏ-
+Isquid:S1068"&Remove this unused "IP" private field.(Æèæçùÿÿÿÿ8È­ÎüÏ-
+Gsquid:S1068")Remove this unused "group" private field.(´‰œÔ8È­ÎüÏ-
+nsquid:S2095—"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Å´Æßşÿÿÿÿ8È­ÎüÏ-
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(šˆÆšûÿÿÿÿ8È­ÎüÏ-
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(™ñÄ„üÿÿÿÿ8È­ÎüÏ-
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(üò×ÿÿÿÿÿ8È­ÎüÏ-
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(¶´¤´ûÿÿÿÿ8È­ÎüÏ-
+V
+squid:S106š"9Replace this use of System.out or System.err by a logger.(Ãİˆ8È­ÎüÏ-
+\
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(Óó÷¨ûÿÿÿÿ8È­ÎüÏ-
+`squid:HiddenFieldCheckR"7Rename "out" which hides the field declared at line 34.(ô–Íå8È­ÎüÏ-
+hsquid:HiddenFieldCheckn":Rename "client" which hides the field declared at line 32.(é¥ø…şÿÿÿÿ8È­ÎüÏ-
+`squid:HiddenFieldCheckp"7Rename "out" which hides the field declared at line 34.(áßŞó8È­ÎüÏ-
+Rsquid:S1481M"/Remove this unused "senderName" local variable.(ÏÜüßüÿÿÿÿ8È­ÎüÏ-
+Fsquid:S1481N"(Remove this unused "msg" local variable.(¹¶§8È­ÎüÏ-
+psquid:S37763"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(“–ış8È­ÎüÏ-
+Usquid:S1854N"7Remove this useless assignment to local variable "msg".(¹¶§8È­ÎüÏ-
+asquid:S1854M">Remove this useless assignment to local variable "senderName".(ÏÜüßüÿÿÿÿ8È­ÎüÏ-
+jsquid:UselessImportCheck":Remove this unused import 'java.util.concurrent.Executor'.(÷ı¶Œúÿÿÿÿ8È­ÎüÏ-
+Fsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8È­ÎüÏ-
+Fsquid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8È­ÎüÏ-
+Fsquid:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8È­ÎüÏ-
+Gsquid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8È­ÎüÏ-

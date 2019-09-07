@@ -1,0 +1,9 @@
+
+Psquid:S1068"/Remove this unused "friendsList" private field.(íÄçÆûÿÿÿÿ8‘Ô™¨Ï-
+Tsquid:S1068"3Remove this unused "connectToServer" private field.(´¨ÿ‡üÿÿÿÿ8½àı¦Ï-
+Dsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8ïÉÎ§Ï-
+Fsquid:S1068"*Remove this unused "myName" private field.(êç†Œ8ë˜û¦Ï-
+Lsquid:S1068"+Remove this unused "friends" private field.(ìİéƒùÿÿÿÿ8½àı¦Ï-
+Dsquid:S1604"(Make this anonymous inner class a lambda(‚©ñÑ8ÕÖ¦Ï-
+Rsquid:S1948"1Make "connectToServer" transient or serializable.(´¨ÿ‡üÿÿÿÿ8‚›¸øÏ-
+Nsquid:S1948"-Make "friendsList" transient or serializable.(íÄçÆûÿÿÿÿ8‚›¸øÏ-

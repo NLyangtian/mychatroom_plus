@@ -1,0 +1,13 @@
+
+Isquid:S1604"(Make this anonymous inner class a lambda(¢’–ìúÿÿÿÿ8®×†åÎ-
+Ysquid:S1854"=Remove this useless assignment to local variable "userlogin".(ù•í¶8ß¸¥ûÎ-
+Dsquid:S1604"(Make this anonymous inner class a lambda(ÖãºÂ8®×†åÎ-
+Ssquid:S1481"2Remove this unused "msgFromServer" local variable.(ö“¨§ıÿÿÿÿ8¾×òüÎ-
+Jsquid:S1481".Remove this unused "userlogin" local variable.(ù•í¶8¶ó¥ûÎ-
+Ksquid:S1068"/Remove this unused "buttonPanel" private field.(Û¤·Ù8şç½ÔÎ-
+bsquid:S1854"ARemove this useless assignment to local variable "msgFromServer".(ö“¨§ıÿÿÿÿ8¾×òüÎ-
+Dsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8„äÌûÎ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…²™Ó8£ä÷üÎ-
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—•™Óøÿÿÿÿ
+9squid:S1700"Rename field "userlogin"(Ã¥ëĞıÿÿÿÿ8ºé¡ÔÎ-
